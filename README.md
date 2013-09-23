@@ -1,7 +1,7 @@
 Hadoop example using wikipedia dump
 ============
 
-This Hadoop project find <b>all the link in Wikipedia</b>.
+This Hadoop project find all the link in Wikipedia. <br />
 It parse parse the full wikipedia <b>100 Go</b> dump XML.<br />
 
 How to use
