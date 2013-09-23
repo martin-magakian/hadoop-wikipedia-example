@@ -40,42 +40,13 @@ A wikipedia dump sample is available in the /wikidump folder. Unzip it and impor
 Looking at the result
 ------
 
-	PageName      | TotalLink | (LinkType*|LinkPage)      |    (LinkType|LinkPage)     |  (LinkType|LinkPage) 
+	PageName      | TotalLink |   (LinkType|LinkPage)     |     (LinkType|LinkPage)    |   (LinkType|LinkPage) 
+
 	Data_register |    1      | 0|Atomic_semantics        |                            |
 	Demographics  |    3      | 0|Demographics_of_Armenia | 0|Demographics_of_American | 0|Demographics_of_Angola
 	Kevin_Gilbert |    1      | 1|Talk%3AAutoerotic       |
 
-
-LinkType:
--2    Media
--1    Special
-0        
-1     Talk
-2     User
-3     User talk
-4     Wikipedia
-5     Wikipedia talk
-6     File
-7     File talk
-8     MediaWiki
-9     MediaWiki talk
-10    Template
-11    Template talk
-12    Help
-13    Help talk
-14    Category
-15    Category talk
-100   Portal
-101   Portal talk
-108   Book
-109   Book talk
-446   Education Program
-447   Education Program talk
-710   TimedText
-711   TimedText talk
-828   Module
-829   Module talk
-
+All the LinkType listed on <a href="http://en.wikipedia.org/wiki/Wikipedia:Namespace#Programming">wikipedia</a>
 
 
 
