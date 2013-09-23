@@ -1,12 +1,8 @@
-Hadoop example using wikipedia dump: finding the links
+Hadoop example using wikipedia dump
 ============
 
-This Hadoop project find all the link in Wikipedia. It parse parse the full wikipedia <b>100 Go</b> dump XML.
-
-Requirement
----------
-- Hadoop up and running
-
+This Hadoop project find <b>all the link in Wikipedia</b>.
+It parse parse the full wikipedia <b>100 Go</b> dump XML.<br />
 
 How to use
 =======
@@ -41,13 +37,12 @@ Looking at the result
 ------
 
 	PageName      | TotalLink |   (LinkType|LinkPage)     |     (LinkType|LinkPage)    |   (LinkType|LinkPage) 
-
+    --------------|-----------|---------------------------|----------------------------|--------------------------                    
 	Data_register |    1      | 0|Atomic_semantics        |                            |
 	Demographics  |    3      | 0|Demographics_of_Armenia | 0|Demographics_of_American | 0|Demographics_of_Angola
 	Kevin_Gilbert |    1      | 1|Talk%3AAutoerotic       |
 
 All the LinkType listed on <a href="http://en.wikipedia.org/wiki/Wikipedia:Namespace#Programming">wikipedia</a>
-
 
 
 Contact
