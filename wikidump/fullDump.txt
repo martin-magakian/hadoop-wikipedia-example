@@ -1,0 +1,5 @@
+Full wiki dump can be downloaded at:
+http://download.wikimedia.org/enwiki/latest/enwiki-latest-pages-articles.xml.bz2
+
+
+Be aware, it will be more than 100Go when unzip.
