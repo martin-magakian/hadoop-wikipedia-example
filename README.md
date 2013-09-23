@@ -14,6 +14,7 @@ How to use
 1- Import dump simple
 ------
 A wikipedia dump sample is available in the /wikidump folder. Unzip it and import the xml into hadoop.
+
 	$ cd wikidump
 	$ unzip wikidump_sample.xml.zip
 	$ hadoop fs -mkdir hadoop_sample
@@ -39,10 +40,10 @@ A wikipedia dump sample is available in the /wikidump folder. Unzip it and impor
 Looking at the result
 ------
 
-PageName      | TotalLink | (LinkType*|LinkPage)      |    (LinkType|LinkPage)     |  (LinkType|LinkPage) 
-Data_register |    1      | 0|Atomic_semantics        |                            |
-Demographics  |    3      | 0|Demographics_of_Armenia | 0|Demographics_of_American | 0|Demographics_of_Angola
-Kevin_Gilbert |    1      | 1|Talk%3AAutoerotic       |
+	PageName      | TotalLink | (LinkType*|LinkPage)      |    (LinkType|LinkPage)     |  (LinkType|LinkPage) 
+	Data_register |    1      | 0|Atomic_semantics        |                            |
+	Demographics  |    3      | 0|Demographics_of_Armenia | 0|Demographics_of_American | 0|Demographics_of_Angola
+	Kevin_Gilbert |    1      | 1|Talk%3AAutoerotic       |
 
 
 LinkType:
@@ -81,9 +82,9 @@ LinkType:
 Contact
 =========
 Developed by Martin Magakian dev.martin.magakian@gmail.com
-For [doduck prototype](http://doduck.com/)
 
-Pour [doduck prototype](http://doduck.fr/) (site en Francais)
+For [doduck prototype](http://doduck.com/) <br />
+Pour [doduck prototype](http://doduck.fr/) (site en Francais)<br />
 
 
 License
