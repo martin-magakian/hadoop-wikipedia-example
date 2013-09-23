@@ -40,7 +40,7 @@ Looking at the result
     --------------|-----------|---------------------------|----------------------------|--------------------------                    
 	Data_register |    1      | 0|Atomic_semantics        |                            |
 	Demographics  |    3      | 0|Demographics_of_Armenia | 0|Demographics_of_American | 0|Demographics_of_Angola
-	Kevin_Gilbert |    1      | 1|Talk%3AAutoerotic       |
+	Kevin_Gilbert |    1      | 1|Talk%3AAutoerotic       |                            |
 
 All the LinkType listed on <a href="http://en.wikipedia.org/wiki/Wikipedia:Namespace#Programming">wikipedia</a>
 
