@@ -1,5 +1,6 @@
 Hadoop example using wikipedia dump
 ============
+by [Anomaly Detection](https://anomaly.io)
 
 This Hadoop project find all the link in Wikipedia. <br />
 It parse parse the full wikipedia <b>100 Go</b> dump XML.<br />
@@ -57,5 +58,4 @@ License
 =========
 MIT License (MIT)
 
-![githalytics.com alpha](https://cruel-carlota.gopagoda.com/40547d77def851fb3c05e23989ea29cd "githalytics.com")
 
